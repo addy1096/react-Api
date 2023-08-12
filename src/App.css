@@ -1,5 +1,6 @@
-.App {
+/* .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +36,22 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.card{
+  text-align: center;
 }
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+/* 
+.body{
+  background-color: #282c34;
+} */
+
+
